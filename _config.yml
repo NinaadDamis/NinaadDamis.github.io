@@ -24,9 +24,9 @@ author:
   avatar           : "photo.jpg"
   name             : "Ninaad Damis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ex-Robotics Software Engineer @ Tailos |  Carnegie Mellon University | Robotics | Machine Learning"
   location         : "Austin, TX"
-  employer         : "Tailos"
+  employer         : # "Tailos"
   uri              : # URL
   email            : "ninaaddamisms@gmail.com" 
 
