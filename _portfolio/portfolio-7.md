@@ -1,6 +1,6 @@
 ---
-title: "Inter-Vehicular Depth and Velocity Estimation using a Monocular Camera"
-excerpt: "<br/><img src='/images/VLR_PROJ.gif'>"
+title: "Unpaired Image-to-Image translation from simulation to real world images"
+excerpt: "<br/><img src='/images/VLR_PROJ_1.mp4'>"
 collection: portfolio
 ---
 
