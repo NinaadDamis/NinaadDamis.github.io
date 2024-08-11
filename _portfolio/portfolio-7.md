@@ -1,6 +1,6 @@
 ---
 title: "Unpaired Image-to-Image translation from simulation to real world images"
-excerpt: "<br/><img src='/images/VLR_PROJ_1.mp4'>"
+excerpt: "<br/><img src='/images/VLR_PROJ_1.gif'>"
 collection: portfolio
 ---
 
