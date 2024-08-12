@@ -1,6 +1,6 @@
 ---
 title: "Emotion Recognition in Multi-Party Conversations"
-excerpt: "<br/><img src='/images/MLAI_1.gif'>"
+excerpt: "<br/><img src='/images/MLAI_1.jpg'>"
 collection: portfolio
 ---
 
