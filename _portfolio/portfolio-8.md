@@ -1,6 +1,6 @@
 ---
-title: "Inter-Vehicular Depth and Velocity Estimation using a Monocular Camera"
-excerpt: "<br/><img src='/images/VLR_PROJ.gif'>"
+title: "Emotion Recognition in Multi-Party Conversations"
+excerpt: "<br/><img src='/images/MLAI_1.gif'>"
 collection: portfolio
 ---
 
