@@ -6,18 +6,26 @@ collection: portfolio
 
 ## Path Planning Towards a Moving Target
 
-
-### 
-
-![](/images/djikstra.gif)
+![](/images/map1_catch.gif)
 
 ## Planning for N-DOF Arms
 
+### RRT
 
-<!-- ![](/images/rrtgif_16782.gif)      ![](/images/rrtstar_16782.gif) -->
-![](/images/djikstra.gif) ![](/images/djikstra.gif)
-## Generic Symbolic Planner
+![](/images/rrtgif_16782.gif) 
 
-### 
+### RRT*
 
-![](/images/djikstra.gif)
+![](/images/rrtstar_16782.gif)
+
+### RRT-Connect
+
+![](/images/rrtconnect_16782.gif)
+
+### PRM
+
+![](/images/prm_16782.gif)
+
+## Generic Symbolic Planner for Task Planning
+
+![](/images/symbolic_planner_1.png)
