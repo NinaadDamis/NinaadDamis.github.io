@@ -27,7 +27,19 @@ Achieved an accuracy of 67.62%
 
 ## Generative Adversarial Networks
 
-<!-- ![](/images/slam_icp.png)
+### Vanilla GAN
 
 
-![](/images/slam_recon.png) -->
+![](/images/gan_3.png)
+
+
+### Least Squares GAN
+
+
+![](/images/lsgan_3.png)
+
+
+### Wassertein GAN with Gradient Penalty
+
+
+![](/images/wgan_3.png)
