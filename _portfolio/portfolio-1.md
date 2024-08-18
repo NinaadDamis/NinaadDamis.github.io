@@ -4,4 +4,20 @@ excerpt: "<br/><img src='/images/Planning_1.gif'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Path Planning Towards a Moving Target
+
+
+### 
+
+![](/images/djikstra.gif)
+
+## Planning for N-DOF Arms
+
+
+![](/images/rrtgif_16782.gif)      ![](/images/rrtstar_16782.gif)
+
+## Generic Symbolic Planner
+
+### 
+
+![](/images/djikstra.gif)
