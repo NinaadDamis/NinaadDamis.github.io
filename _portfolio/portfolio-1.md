@@ -14,8 +14,8 @@ collection: portfolio
 ## Planning for N-DOF Arms
 
 
-![](/images/rrtgif_16782.gif)      ![](/images/rrtstar_16782.gif)
-
+<!-- ![](/images/rrtgif_16782.gif)      ![](/images/rrtstar_16782.gif) -->
+![](/images/djikstra.gif) ![](/images/djikstra.gif)
 ## Generic Symbolic Planner
 
 ### 
