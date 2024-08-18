@@ -8,34 +8,34 @@ This project utilizes C++ and custom OpenGL libraries to provide visualizations 
 
 ![](/images/opengl_ui.png)
 
-### Grid-Based Motion Planning
+## Grid-Based Motion Planning
 
 Grid-based approaches discretizes the entire configuration space into into grid cells and assume each configuration is identified with a grid point. Search algorithms like A* are then used to find a path from the start to the goal state. Since the grid grows exponentially with the configuration space dimension, they aren't preferred for high-dimensional problems.
 
-#### Djikstra
+### Djikstra
 
 ![](/images/djikstra.gif)
 
-#### A*
+### A*
 
 ![](/images/a_star.gif)
 
-#### Weighted A*
+### Weighted A*
 
 ![](/images/wastar.gif)
 
-### Sampling-Based Motion Planning
+## Sampling-Based Motion Planning
 
 Sampling-based approaches use random sampling to explore the configuration space, and build a tree or a roadmap connecting feasible states. These algorithms are well suited for high dimensional planning problems.
 
-#### Rapidly Exploring Random Tree (RRT)
+### Rapidly Exploring Random Tree (RRT)
 
 ![](/images/rrt.gif)
 
-#### RRT*
+### RRT*
 
 ![](/images/rrt_star.gif)
 
-#### RRT-Connect
+### RRT-Connect
 
 ![](/images/rrt_connect.gif)
