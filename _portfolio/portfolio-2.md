@@ -6,16 +6,19 @@ collection: portfolio
 
 ## Particle Filter Localization
 
-![](/images/map1_catch.gif)
+![](/images/pf_gif.gif)
 
 
 
 ## Extended kalman Filter SLAM
 
-![](/images/map1_catch.gif)
+![](/images/ekf_slam.png)
 
 
 
 ## Dense 3D SLAM 
 
-![](/images/map1_catch.gif)
+![](/images/slam_icp.png)
+
+
+![](/images/slam_recon.png)
