@@ -6,8 +6,8 @@ collection: portfolio
 
 ## Weakly Supervised Object Localization
 
-The project exploits the use of pre-trained CNN’s for Weakly supervised deep detection of image regions, performing simultaneous region selection and classification without using image-level annotations.
-A novel end-to-end method that classifies and predicts bounding boxes using AlexNet on PASCAL VOC data through the use of spatial pyramid pooling.
+Implements a weakly supervised object detector which utilizes only image-level annotations and no bounding box annotations on the PASCAL VOC 2007 dataset.
+
 
 ![](/images/heat_combined.png)
 
@@ -16,9 +16,8 @@ A novel end-to-end method that classifies and predicts bounding boxes using Alex
 
 ## Visual Question Answering
 
-Implmented a Multi-Modal Visual Question Answering model using pre-trained RoBERTa and TransformerNet architecture.
-Incorporated self-attention and cross-attention to aid interactions between textual and visual features.
-Achieved an accuracy of 67.62%
+In Visual Question Answering (VQA), given an image and a question about it, our goal is to select an answer from a large pool of possible answers. We implement a transformer based architecture which uses pre-trained ResNet18 and RoBERTa to featurize input images and text.
+
 
 ![](/images/vlr_3_vqa.png)
 
@@ -26,6 +25,9 @@ Achieved an accuracy of 67.62%
 
 
 ## Generative Adversarial Networks
+
+Trained GAN's with various losses on the CUB 2011 Dataset to generate realistic-looking samples of these birds.
+
 
 ### Vanilla GAN
 
