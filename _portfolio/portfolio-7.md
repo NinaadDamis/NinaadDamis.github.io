@@ -9,7 +9,7 @@ Unpaired image-to-image translation is a class of vision problems where the goal
 ![](/images/intro_1.png)
 
 Simulation can be a powerful tool for understanding machine learning systems and designing methods to solve real-world problems. 
-Machine learning systems for autonomous agents are often trained purely in simulation due to the abundance of data which can be generated. But these systems “doomed to succeed” at the desired task in a simulated environment, with the resulting models being incapable of operation in the real world. This project attempts to tackle this simulation-to-reality gap.
+Machine learning systems for autonomous agents are often trained purely in simulation due to the abundance of data which can be generated. But these systems are “doomed to succeed” at the desired task in a simulated environment, with the resulting models being incapable of operation in the real world. This project attempts to tackle this simulation-to-reality gap.
 
 Our proposed method Trans-Cycle GAN tries to convert semanically segmented images from CARLA simulation into real-world Cityscapes images, which can then be used downstream for multiple tasks. We modify the CycleGAN architecture to introduce bipartite attention layers in the generator network to enable long range interactions between the encoded features. 
 
