@@ -16,6 +16,6 @@ collection: portfolio
 
 ![](/images/cv_3d_recons.png)
 
-## Optical Character Recognition Using Neyral Networks
+## Optical Character Recognition Using Neural Networks
 
 ![](/images/cv_5_ocr.png)
