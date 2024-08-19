@@ -4,10 +4,15 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
+[Download my CV in PDF format](/files/Ninaad_Resume.pdf)
+![](/images/Ninaad_Resume.png)
+
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
