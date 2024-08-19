@@ -4,4 +4,18 @@ excerpt: "<br/><img src='/images/CV_1.gif'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Scene Classification using Spatial Pyramid Matching
+
+![](/images/cv_1_wordmap.png)
+
+## Lucas Kanade Tracking
+
+![](/images/cv_track.png)
+
+## 3D Reconstruction
+
+![](/images/cv_3d_recons.png)
+
+## Optical Character Recognition Using Neyral Networks
+
+![](/images/cv_5_ocr.png)
