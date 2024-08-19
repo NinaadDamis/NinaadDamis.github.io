@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+I am a Carnegie Mellon University graduate with a Master’s in Computational Design and a specialization in Robotics. During my graduate program, I gained extensive practical experience in designing autonomous systems by successfully completing coursework in Planning and Decision Making, Computer Vision, Deep Learning and SLAM. 
+
+As a Robotics Software Engineer at Tailos, I worked across various domains of the autonomy stack such as Motion Planning, Perception and SLAM to optimize the cleaning performance of our robot vacuum cleaner, Rosie. 
+
+Prior to graduate studies, I worked as a Robotics Engineer at Barnstorm Agtech, an agriculture startup building autonomous robots for basic farm operations like tilling. As a founding engineer, I led the development of the ROS-based navigation stack, created Gazebo simulation environments for testing, and integrated various sensors and actuators into the embedded architecture. 
 
 I'm actively looking for full-time roles in robotics software and deep learning, excited to bring my ideas and skills to new and exciting challenges.
 
