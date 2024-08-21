@@ -7,9 +7,9 @@ collection: portfolio
 ## Particle Filter Localization
 
 Implemented a Particle Filter to estimate pose of a differential drive robot using measurements from a 180-degree laser range finder.
-<!-- - **Objective:** Design and analyze differential gearboxes using SAE 8620 and EN 36C to determine the most suitable material for specific automotive uses. -->
-![](/images/pf_gif.gif)
 
+![](/images/pf_gif.gif)
+<!-- - **Objective:** Design and analyze differential gearboxes using SAE 8620 and EN 36C to determine the most suitable material for specific automotive uses. -->
 
 ## Extended kalman Filter SLAM
 
